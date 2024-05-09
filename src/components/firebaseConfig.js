@@ -4,13 +4,13 @@ import 'firebase/compat/auth';
 
 
 const firebaseConfig = {
-    apiKey: "  ",
-    authDomain: "",
-    databaseURL: "https://-rtdb.firebaseio.com/",
-    projectId: "",
-    storageBucket: ".appspot.com",
-    messagingSenderId: "",
-    appId: "",
+  apiKey: "AIzaSyDgfH6gOFX394H5SQqQmWgezhoqDkhJ6qc",
+  authDomain: "autenticacao-bbb28.firebaseapp.com",
+  databaseURL: "https://autenticacao-bbb28-default-rtdb.firebaseio.com/",
+  projectId: "autenticacao-bbb28",
+  storageBucket: "autenticacao-bbb28.appspot.com",
+  messagingSenderId: "64748979595",
+  appId: "1:64748979595:web:fa4fe567c31b49c9629b8e",
     measurementId: "Q"
 }
 
